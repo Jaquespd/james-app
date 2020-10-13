@@ -1,4 +1,5 @@
-[
+{
+  "paintings": [
   {
     "paintingId": 8,
     "publishDate": "2020-10-08T11:07:39.000Z",
@@ -70,3 +71,4 @@
     "saves": 0
   }
 ]
+}
